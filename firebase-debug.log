@@ -1,0 +1,29 @@
+[debug] [2021-04-11T20:01:15.091Z] ----------------------------------------------------------------------
+[debug] [2021-04-11T20:01:15.096Z] Command:       C:\Program Files\node.exe C:\Users\acede\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init [hosting]
+[debug] [2021-04-11T20:01:15.097Z] CLI Version:   9.9.0
+[debug] [2021-04-11T20:01:15.097Z] Platform:      win32
+[debug] [2021-04-11T20:01:15.097Z] Node Version:  v14.16.1
+[debug] [2021-04-11T20:01:15.099Z] Time:          Sun Apr 11 2021 16:01:15 GMT-0400 (Eastern Daylight Time)
+[debug] [2021-04-11T20:01:15.099Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-04-11T20:01:15.114Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-04-11T20:01:15.114Z] > authorizing via signed-in user (egobarventures@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\acede\egobarsocialzone-client
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  If you want to create a project in a Google Cloud organization or folder, please use "firebase projects:create" instead, and return to this command when you've created the project. 
